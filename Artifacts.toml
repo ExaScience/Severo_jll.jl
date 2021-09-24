@@ -1,0 +1,184 @@
+[[Severo]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "545a6f51a320511e48b33c71999ff4d4b3996301"
+libc = "glibc"
+os = "linux"
+
+    [[Severo.download]]
+    sha256 = "5dd46b7c1ea7d0016a1ee4b2b1420a8143d1b0deb4e64d6dc4c27c1e4e86b039"
+    url = "https://github.com/Exascience/Severo_jll.jl/releases/download/Severo-v0.1.0+0/Severo.v0.1.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[Severo]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2e226c246cdec71edbb418f9b012842900d57b2e"
+libc = "glibc"
+os = "linux"
+
+    [[Severo.download]]
+    sha256 = "ec251b558ec215539d446de2f9defc345f595f45c365207ee210819f07b68ada"
+    url = "https://github.com/Exascience/Severo_jll.jl/releases/download/Severo-v0.1.0+0/Severo.v0.1.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[Severo]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "de9db74886f4bebf2cb5f2e2aa2fbead58e13483"
+libc = "musl"
+os = "linux"
+
+    [[Severo.download]]
+    sha256 = "4e283b57417c51e0ffa367bfd5361f5ea4b312fbc2529eaec5ade08a2d4f63ff"
+    url = "https://github.com/Exascience/Severo_jll.jl/releases/download/Severo-v0.1.0+0/Severo.v0.1.0.aarch64-linux-musl-cxx03.tar.gz"
+[[Severo]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "bbfd04887def8652eef0b55f333f3635f2130e56"
+libc = "musl"
+os = "linux"
+
+    [[Severo.download]]
+    sha256 = "cfa26ad4b6df977e1218c70bd4cf41d9687c02ef1d18e83345dc4cedbbf19dbc"
+    url = "https://github.com/Exascience/Severo_jll.jl/releases/download/Severo-v0.1.0+0/Severo.v0.1.0.aarch64-linux-musl-cxx11.tar.gz"
+[[Severo]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "bc69200588a306cef75bb96463df9ac2956d92c2"
+libc = "glibc"
+os = "linux"
+
+    [[Severo.download]]
+    sha256 = "912e3f1f291d54a51e86caf2513b0d3784318a9a9f074c16c026569f05c5b867"
+    url = "https://github.com/Exascience/Severo_jll.jl/releases/download/Severo-v0.1.0+0/Severo.v0.1.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[Severo]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "cbdd6aef83394e7856cf6ba98639d7aab87568a5"
+libc = "glibc"
+os = "linux"
+
+    [[Severo.download]]
+    sha256 = "869d44977783212144416d80ce753f82f3cc51a2dd8410efc98990d7ffe0431a"
+    url = "https://github.com/Exascience/Severo_jll.jl/releases/download/Severo-v0.1.0+0/Severo.v0.1.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[Severo]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "cc8b308de70d5ea282066f7f9930e943a773b524"
+libc = "musl"
+os = "linux"
+
+    [[Severo.download]]
+    sha256 = "7778bddf1292ba9c1643436dcfef129a1840abf23ee9b6004d38e590ea50153c"
+    url = "https://github.com/Exascience/Severo_jll.jl/releases/download/Severo-v0.1.0+0/Severo.v0.1.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[Severo]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5ea621d3fee619b9dfe3a42ad1b6ab99495759e8"
+libc = "musl"
+os = "linux"
+
+    [[Severo.download]]
+    sha256 = "2676626e9491335b8ab741a71771e7ad5f7d579a0648585d1b117dd7025b431a"
+    url = "https://github.com/Exascience/Severo_jll.jl/releases/download/Severo-v0.1.0+0/Severo.v0.1.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[Severo]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b7804ebc40ecb94e339b92b392b41542cac2aa74"
+libc = "glibc"
+os = "linux"
+
+    [[Severo.download]]
+    sha256 = "5a7b2d8495f4f44f0ef58b2d853265bec8f1d3a26b88861f8468cd55d8c3b462"
+    url = "https://github.com/Exascience/Severo_jll.jl/releases/download/Severo-v0.1.0+0/Severo.v0.1.0.i686-linux-gnu-cxx03.tar.gz"
+[[Severo]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "cce67a8869307fb65221b2617c0a104aac98d4e1"
+libc = "glibc"
+os = "linux"
+
+    [[Severo.download]]
+    sha256 = "390d33c4cd1841046148977c6a9765fad4cf983243a2796da19d943d10061e2d"
+    url = "https://github.com/Exascience/Severo_jll.jl/releases/download/Severo-v0.1.0+0/Severo.v0.1.0.i686-linux-gnu-cxx11.tar.gz"
+[[Severo]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0c2204dc71ef39d2cc2458508cc29c4ad0d055e3"
+libc = "musl"
+os = "linux"
+
+    [[Severo.download]]
+    sha256 = "1d5c50fe2f670ceac83b8ab296362631a881b8b8d8a331b2b300a56cf3fbdfa4"
+    url = "https://github.com/Exascience/Severo_jll.jl/releases/download/Severo-v0.1.0+0/Severo.v0.1.0.i686-linux-musl-cxx03.tar.gz"
+[[Severo]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "162700227c025c7de0a09b946ff34dcf98680936"
+libc = "musl"
+os = "linux"
+
+    [[Severo.download]]
+    sha256 = "5700222bc79d0b7ef6e938401fa961dc1d0267826029c3fb61950e67b17b72c4"
+    url = "https://github.com/Exascience/Severo_jll.jl/releases/download/Severo-v0.1.0+0/Severo.v0.1.0.i686-linux-musl-cxx11.tar.gz"
+[[Severo]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "81aed2b34b3fe86774a0119d145ae0e2fc3fd95f"
+libc = "glibc"
+os = "linux"
+
+    [[Severo.download]]
+    sha256 = "095fbb7c582b24cfe291ca8959003f373582bb769e56196987132fb0987abea9"
+    url = "https://github.com/Exascience/Severo_jll.jl/releases/download/Severo-v0.1.0+0/Severo.v0.1.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[Severo]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a05d1e3a8b7373e63b811c6109c5f22af6afe66c"
+libc = "glibc"
+os = "linux"
+
+    [[Severo.download]]
+    sha256 = "673d0626963defcdcf4e667474a1bd40c833c06de2dadc577a38b3de81670e22"
+    url = "https://github.com/Exascience/Severo_jll.jl/releases/download/Severo-v0.1.0+0/Severo.v0.1.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[Severo]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a8ac4f6ec571cd618a3dcb37f99eb5aa9354c39f"
+libc = "glibc"
+os = "linux"
+
+    [[Severo.download]]
+    sha256 = "2f8f958a39d6985222ca10929036de3f5cbfebaeab75787de4a6ed7d297c752c"
+    url = "https://github.com/Exascience/Severo_jll.jl/releases/download/Severo-v0.1.0+0/Severo.v0.1.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[Severo]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "166541e1064494c33a82d72a07771df25df99e54"
+libc = "glibc"
+os = "linux"
+
+    [[Severo.download]]
+    sha256 = "12171e1b23ff94a182e847e0904f3693fdace9582b750687f0dc61446c6ad410"
+    url = "https://github.com/Exascience/Severo_jll.jl/releases/download/Severo-v0.1.0+0/Severo.v0.1.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[Severo]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ab80f1ba8323fd7f72e7c16b3ae42aba5037148e"
+libc = "musl"
+os = "linux"
+
+    [[Severo.download]]
+    sha256 = "78d7e37b2648fbfeaf32b410c3841637b5575f5013f7ac5f5e712f24f5eaf4d9"
+    url = "https://github.com/Exascience/Severo_jll.jl/releases/download/Severo-v0.1.0+0/Severo.v0.1.0.x86_64-linux-musl-cxx03.tar.gz"
+[[Severo]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "04f0f77447591b8949cec7dd205ba81635d75f2a"
+libc = "musl"
+os = "linux"
+
+    [[Severo.download]]
+    sha256 = "dad95e7bd552eec1f687692a22f025388982b59627def5dae1aef8ec89e0c4c3"
+    url = "https://github.com/Exascience/Severo_jll.jl/releases/download/Severo-v0.1.0+0/Severo.v0.1.0.x86_64-linux-musl-cxx11.tar.gz"
